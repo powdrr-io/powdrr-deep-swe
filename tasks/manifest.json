@@ -227,6 +227,17 @@
       "language": "python"
     },
     {
+      "ext_id": "kh71y4gxtry9p0m42wvg4th515831mwz",
+      "task_id": "powdrr-langchain-request-coalescing",
+      "display_title": "Add request coalescing to `Runnable`",
+      "display_description": "Add `Runnable.with_coalesce()` so concurrent identical inputs share one execution across sync, async, streaming, and batch APIs.",
+      "repo": "langchain-ai/langchain",
+      "repository_url": "https://github.com/langchain-ai/langchain",
+      "original_title": "deduplicate concurrent identical requests.",
+      "category": "feature_request",
+      "language": "python"
+    },
+    {
       "ext_id": "kh72088pg9vkc6peacnkc35yy9832jff",
       "task_id": "cliffy-config-file-parsing",
       "display_title": "Add config file parsing to Cliffy commands",
