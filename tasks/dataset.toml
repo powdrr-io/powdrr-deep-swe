@@ -249,6 +249,10 @@ name = "datacurve/langchain-request-coalescing"
 digest = "sha256:2bb42f3ebde1c3167e07e342066c82de010cf566e696ee29d4ae81df44a759e3"
 
 [[tasks]]
+name = "datacurve/powdrr-langchain-request-coalescing"
+digest = "sha256:07f6d0a45e97db23ac5529fd989e5c28e974c1faf53219a21c776b69d7d4a229"
+
+[[tasks]]
 name = "datacurve/mashumaro-flattened-dataclass-fields"
 digest = "sha256:2e06fabfa897a33b85ebba8ffac95db991b1535f32ae753405e7d588bf0c1d11"
 
@@ -459,4 +463,3 @@ digest = "sha256:a24f78cd65cb325e7849ccafcad4244c960e76bdfb8d68110719d97d0b15f6a
 [[tasks]]
 name = "datacurve/ytt-jsonpath-query-api"
 digest = "sha256:1c912e1f3fad01a8d4a8450f42b7c41825d089075df6aff8ce94013a588b3f4a"
-
